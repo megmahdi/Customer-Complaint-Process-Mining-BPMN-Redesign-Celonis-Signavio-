@@ -29,6 +29,30 @@ The project was completed as part of my Master's coursework in **Business Proces
 - Limited end-to-end process visibility because complaint cases contained only one recorded activity.
 - Fragmented complaint handling leading to duplicate work and inconsistent case management.
 
+## Process Improvements
+
+The redesigned BPMN model focused on:
+
+- Standardizing complaint handling.
+- Improving end-to-end case visibility.
+- Reducing rework by keeping customer interactions within a single complaint case.
+
+## Repository Contents
+
+```
+README.md
+DatasetInfo.md
+BPI2016_Complaints.csv
+BPMN Assignment.pdf
+images/
+├── process_explorer_1.png
+├── process_explorer_2.png
+├── variant_explorer.png
+├── case_explorer.png
+├── fragmented_case_handling.png
+└── bpmn_redesign.jpg
+```
+
 ## Process Mining Visualizations
 
 The following screenshots highlight key stages of the analysis performed in **Celonis Process Mining** and the final workflow redesign created in **SAP Signavio**.
@@ -71,26 +95,4 @@ Based on the findings from the process mining analysis, the complaint handling p
 
 ![BPMN Redesign](images/bpmn_redesign.jpg)
 
-## Process Improvements
 
-The redesigned BPMN model focused on:
-
-- Standardizing complaint handling.
-- Improving end-to-end case visibility.
-- Reducing rework by keeping customer interactions within a single complaint case.
-
-## Repository Contents
-
-```
-README.md
-DatasetInfo.md
-BPI2016_Complaints.csv
-BPMN Assignment.pdf
-images/
-├── process_explorer_1.png
-├── process_explorer_2.png
-├── variant_explorer.png
-├── case_explorer.png
-├── fragmented_case_handling.png
-└── bpmn_redesign.jpg
-```
