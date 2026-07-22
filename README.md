@@ -53,6 +53,9 @@ images/
 └── bpmn_redesign.jpg
 ```
 
+
+
+
 ## Process Mining Visualizations
 
 The following screenshots highlight key stages of the analysis performed in **Celonis Process Mining** and the final workflow redesign created in **SAP Signavio**.
